@@ -1,0 +1,73 @@
+<!--1 Deportistas-->
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<deportistas>
+  <deportista>
+    <deporte> Atletismo </deporte>
+    <nombre>Jesse Owens</nombre>
+  </deportista>
+
+  <deportista>
+    <deporte> Natación </deporte>
+    <nombre>Mark Spitz</nombre>
+  </deportista>
+
+</deportistas>
+
+<!-- 2 peliculas-->
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<conjuntPelis>
+
+  <pelicula>
+    <titulo>Con faldas y a lo loco</titulo>
+    <director>Billy Wilder</director>
+  </pelicula>
+
+  <pelicula>
+    <director>Leo McCarey</director>
+    <titulo>Sopa de ganso</titulo>
+  </pelicula>
+
+  <autor>barto</autor>
+
+</conjuntPelis>
+
+<!-- 3 - Información geográfica -->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<geografiamundial>
+  <paises>
+    <pais>España</pais>
+    <continente>Europa</continente>
+    <capital></capital nombre="Madrid">
+  </paises>
+</geografiamundial>
+
+<!--4 - Programas-->
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<programas>
+  <programa nombre="Firefox" licencia="GPL" licencia="MPL" />
+  <programa nombre="LibreOffice" licencia="LGPL" />
+  <programa nombre="Inkscape" licencia="GPL" />
+</programas>
+
+<!--5 - Mundiales de fútbol-->
+<?xml version="1.0" encoding="UTF-8"?>
+<mundialesDeFutbol>
+  <mundial>
+    <pais="España" />
+    <1982></1982>
+  </mundial>
+</mundialesDeFutbol>
+
+<!-- 6 - Medios de transporte -->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<mediosDeTransporte>
+  <bicicleta velocidad="v<100km/h" />
+  <patinete velocidadMaxima="50 km/h"></patinete>
+</mediosDeTransporte>

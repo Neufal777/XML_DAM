@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<institut>
+  <treballadorsInstitut>
+  <docents>
+    <professors>
+      <departaments>
+
+        <departament>
+          <nomDepartament>Informatica</nomDepartament>
+          <numeroProfessors>12</numeroProfessors>
+          <nomCapDepartament>Pere manel</nomCapDepartament>
+
+          <treballadors>
+
+            <treballador>
+              <nomTreballador>Andreu</nomTreballador>
+              <cognomTreballador>garcia</cognomTreballador>
+              <dniTreballador>9626383A</dniTreballador>
+              <adrTreballador>c/ providencia, 7, 08241, Manresa</adrTreballador>
+            </treballador>
+
+            <treballador>
+              <nomTreballador>Andreu</nomTreballador>
+              <cognomTreballador>garcia</cognomTreballador>
+              <dniTreballador>9626383A</dniTreballador>
+              <adrTreballador>c/ providencia, 7, 08241, Manresa</adrTreballador>
+            </treballador>
+
+            <treballador>
+              <nomTreballador>Andreu</nomTreballador>
+              <cognomTreballador>garcia</cognomTreballador>
+              <dniTreballador>9626383A</dniTreballador>
+              <adrTreballador>c/ providencia, 7, 08241, Manresa</adrTreballador>
+            </treballador>
+
+          </treballadors>
+
+        </departament>
+
+        <departament>
+
+          <nomDepartament>matematiques</nomDepartament>
+          <numeroProfessors>7</numeroProfessors>
+          <nomCapDepartament>mauricio hernandez</nomCapDepartament>
+          <treballadors>
+
+            <treballador>
+              <nomTreballador>paula</nomTreballador>
+              <cognomTreballador>Garriga</cognomTreballador>
+              <dniTreballador>7026183A</dniTreballador>
+              <adrTreballador>c/ maurici, 43, 08241, Manresa</adrTreballador>
+            </treballador>
+
+            <treballador>
+              <nomTreballador>marina</nomTreballador>
+              <cognomTreballador>gros</cognomTreballador>
+              <dniTreballador>096928A</dniTreballador>
+              <adrTreballador>c/ andreu, 4, 08241, Manresa</adrTreballador>
+            </treballador>
+
+            <treballador>
+              <nomTreballador>sumia</nomTreballador>
+              <cognomTreballador>benali</cognomTreballador>
+              <dniTreballador>007497A</dniTreballador>
+              <adrTreballador>c/ fermin, 87, 08241, Manresa</adrTreballador>
+            </treballador>
+          </treballadors>
+
+        </departament>
+
+        <departament>
+          <nomDepartament>socials</nomDepartament>
+          <numeroProfessors>9</numeroProfessors>
+          <nomCapDepartament>cristina pau</nomCapDepartament>
+          <treballadors>
+
+            <treballador>
+              <nomTreballador>Andreu</nomTreballador>
+              <cognomTreballador>garcia</cognomTreballador>
+              <dniTreballador>9626383A</dniTreballador>
+              <adrTreballador>c/ providencia, 7, 08241, Manresa</adrTreballador>
+            </treballador>
+
+            <treballador>
+              <nomTreballador>Andreu</nomTreballador>
+              <cognomTreballador>garcia</cognomTreballador>
+              <dniTreballador>9626383A</dniTreballador>
+              <adrTreballador>c/ providencia, 7, 08241, Manresa</adrTreballador>
+            </treballador>
+
+            <treballador>
+              <nomTreballador>Andreu</nomTreballador>
+              <cognomTreballador>garcia</cognomTreballador>
+              <dniTreballador>9626383A</dniTreballador>
+              <adrTreballador>c/ providencia, 7, 08241, Manresa</adrTreballador>
+            </treballador>
+
+          </treballadors>
+        </departament>
+
+      </departaments>
+    </professors>
+  </docents>
+
+  <noDocents>
+
+    <neteja>
+      <nom>Neteja</nom>
+      <cap>Ins lacetania</cap>
+      <numEmpleats>16</numEmpleats>
+      <empleatsNeteja>
+        <empresa>Neteja Bages</empresa>
+      </empleatsNeteja>
+
+      <treballadors>
+
+        <treballador>
+          <nomTreballador>Andreu</nomTreballador>
+          <cognomTreballador>garcia</cognomTreballador>
+          <dniTreballador>9626383A</dniTreballador>
+          <adrTreballador>c/ providencia, 7, 08241, Manresa</adrTreballador>
+        </treballador>
+
+        <treballador>
+          <nomTreballador>Andreu</nomTreballador>
+          <cognomTreballador>garcia</cognomTreballador>
+          <dniTreballador>9626383A</dniTreballador>
+          <adrTreballador>c/ providencia, 7, 08241, Manresa</adrTreballador>
+        </treballador>
+
+        <treballador>
+          <nomTreballador>Andreu</nomTreballador>
+          <cognomTreballador>garcia</cognomTreballador>
+          <dniTreballador>9626383A</dniTreballador>
+          <adrTreballador>c/ providencia, 7, 08241, Manresa</adrTreballador>
+        </treballador>
+
+      </treballadors>
+
+    </neteja>
+
+    <administracio>
+      <nom>administracio</nom>
+      <cap>Ins lacetania</cap>
+      <numEmpleats>2</numEmpleats>
+
+      <treballadors>
+
+        <treballador>
+          <nomTreballador>Gerard</nomTreballador>
+          <cognomTreballador>cases</cognomTreballador>
+          <dniTreballador>9626383A</dniTreballador>
+          <adrTreballador>c/ pdf, 7, 08241, Manresa</adrTreballador>
+        </treballador>
+
+        <treballador>
+          <nomTreballador>Andreu</nomTreballador>
+          <cognomTreballador>garcia</cognomTreballador>
+          <dniTreballador>9626383A</dniTreballador>
+          <adrTreballador>c/ providencia, 7, 08241, Manresa</adrTreballador>
+        </treballador>
+
+        <treballador>
+          <nomTreballador>Andreu</nomTreballador>
+          <cognomTreballador>garcia</cognomTreballador>
+          <dniTreballador>9626383A</dniTreballador>
+          <adrTreballador>c/ providencia, 7, 08241, Manresa</adrTreballador>
+        </treballador>
+
+      </treballadors>
+
+    </administracio>
+
+    <consergeria>
+      <nom>Consergeria</nom>
+      <cap>Ins lacetania</cap>
+      <numEmpleats>34</numEmpleats>
+
+      <treballadors>
+
+        <treballador>
+          <nomTreballador>yasin</nomTreballador>
+          <cognomTreballador>armadi</cognomTreballador>
+          <dniTreballador>9626383A</dniTreballador>
+          <adrTreballador>c/ pl catalunya, 7, 08241, Manresa</adrTreballador>
+        </treballador>
+
+        <treballador>
+          <nomTreballador>maria</nomTreballador>
+          <cognomTreballador>canaleta</cognomTreballador>
+          <dniTreballador>9626383A</dniTreballador>
+          <adrTreballador>c/ maria carmen, 9, 08241, Manresa</adrTreballador>
+        </treballador>
+
+        <treballador>
+          <nomTreballador>claudia </nomTreballador>
+          <cognomTreballador>fogueras</cognomTreballador>
+          <dniTreballador>9626383A</dniTreballador>
+          <adrTreballador>c/ providencia, 7, 08241, Manresa</adrTreballador>
+        </treballador>
+
+      </treballadors>
+
+    </consergeria>
+
+  </noDocents>
+
+</treballadorsInstitut>
+
+</institut>

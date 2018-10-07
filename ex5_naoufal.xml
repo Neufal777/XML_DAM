@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<familiesProfessionals>
+  <familiaProf>
+    <nomFamilia> Informàtica i Telecomunicacions </nomFamilia>
+    <cicleMitja>
+      <titols>
+        <titol>
+          <nomTitol>SMIX</nomTitol>
+        </titol>
+      </titols>
+    </cicleMitja>
+    <cicleSuperior>
+      <titols>
+        <titol>
+          <nomTitol>ASIX</nomTitol>
+        </titol>
+        <titol>
+          <nomTitol>DAM</nomTitol>
+        </titol>
+        <titol>
+          <nomTitol>DAW</nomTitol>
+          <moduls>
+            <modul>
+              <nomModul>MO1 - Sistemes informatics</nomModul>
+              <unitatsFormatives>
+
+                <unitat>
+                  <nomUnitat>UF1 -Instal·lació, configuració i explotació del sistema informàtic </nomUnitat>
+                  <horesUnitat>198</horesUnitat>
+                </unitat>
+
+                <unitat>
+                  <nomUnitat>UF2 -Gestió de la informació i de recursos en una xarxa </nomUnitat>
+                  <horesUnitat>91</horesUnitat>
+                </unitat>
+
+                <unitat>
+                  <nomUnitat>UF3 - Implantació de programari específic </nomUnitat>
+                  <horesUnitat>36</horesUnitat>
+                </unitat>
+
+              </unitatsFormatives>
+            </modul>
+
+            <modul>
+              <nomModul>MO2 - Bases de dades.</nomModul>
+              <unitatsFormatives>
+
+                <unitat>
+                  <nomUnitat>UF1 -Introducció a les bases de dades </nomUnitat>
+                  <horesUnitat>55</horesUnitat>
+                </unitat>
+
+                <unitat>
+                  <nomUnitat>UF2 -Llenguatges SQL : DML i DDL </nomUnitat>
+                  <horesUnitat>91</horesUnitat>
+                </unitat>
+
+                <unitat>
+                  <nomUnitat>UF3 - Llenguatge SQL: DCL i extensió procedimental </nomUnitat>
+                  <horesUnitat>66</horesUnitat>
+                </unitat>
+
+                <unitat>
+                  <nomUnitat>UF4 - Bases de dades objecte-relacionals </nomUnitat>
+                  <horesUnitat>29</horesUnitat>
+                </unitat>
+
+              </unitatsFormatives>
+            </modul>
+            <!-- Aqui es podrien posar el reste de moduls amb les seves unitats formatives-->
+
+          </moduls>
+        </titol>
+      </titols>
+    </cicleSuperior>
+  </familiaProf>
+</familiesProfessionals>
